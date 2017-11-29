@@ -1,1 +1,3 @@
-# fjernoffice2011
+# Fjern Office 2011 Script
+
+readme kommer snart...
