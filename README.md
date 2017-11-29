@@ -21,10 +21,12 @@ Følgende Kommando skal du bruge for at køre scriptet:
 
 ``` bash
 
-sh /sti/til/fil
+sh /sti/til/fil.sh
 
 ```
 
 Det nemmeste er dog, hvis du bare skriver `sh` og trækker filen ind i terminalen. Så sætter den selv stien ind i terminalen.
 
 **OBS. Jeg ikke kan holdes ansvarlig for evt. tab af filer osv.**
+
+Hvis du oplever fejl eller mangler i programmet, vil jeg gerne høre fra dig!
