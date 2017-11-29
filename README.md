@@ -1,3 +1,19 @@
-# Fjern Office 2011 Script
+# [Fjern Office 2011 Script](https://github.com/mjoerck/fjernoffice2011#fjern-office-2011-script)
 
-readme kommer snart...
+Skal du have fjernet Microsoft Office 2011 pakken, så kan du bruge dette script.
+
+For at bruge scriptet, skal du downloade det her fra GitHub siden. Tryk på Clone or download og vælg download ZIP.
+
+Når det så er downloadet skal du navigere til mappen med terminalen på din computer.
+
+Følgende Kommandoer skal du bruge for at køre scriptet:
+
+``` bash
+
+sh /sti/til/fil
+
+```
+
+Det nemmeste er dog, hvis du bare skriver `sh` og trækker filen ind i terminalen. Så sætter den selv stien ind i terminalen.
+
+**OBS. Husk at jeg ikke kan holdes ansvarlig for evt. tab af filer osv.**
