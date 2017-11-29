@@ -27,4 +27,4 @@ sh /sti/til/fil
 
 Det nemmeste er dog, hvis du bare skriver `sh` og trækker filen ind i terminalen. Så sætter den selv stien ind i terminalen.
 
-**OBS. Husk at jeg ikke kan holdes ansvarlig for evt. tab af filer osv.**
+**OBS. Jeg ikke kan holdes ansvarlig for evt. tab af filer osv.**
