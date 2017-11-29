@@ -5,8 +5,19 @@ Skal du have fjernet Microsoft Office 2011 pakken, så kan du bruge dette script
 For at bruge scriptet, skal du downloade det her fra GitHub siden. Tryk på Clone or download og vælg download ZIP.
 
 Når det så er downloadet skal du navigere til mappen med terminalen på din computer.
+Du kan navigere med følgende kommandoer, hvis du har gemt mappen på dit skrivebord.
 
-Følgende Kommandoer skal du bruge for at køre scriptet:
+``` bash
+cd desktop
+
+cd fjernoffice2011-master.zip
+
+ls
+```
+
+Ved at skrive `ls` bekræfter du, at du er i den rigtige mappe, filerne i mappen skulle gerne vises i terminalen.
+
+Følgende Kommando skal du bruge for at køre scriptet:
 
 ``` bash
 
