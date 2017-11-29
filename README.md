@@ -1,5 +1,7 @@
 # [Fjern Office 2011 Script](https://github.com/mjoerck/fjernoffice2011#fjern-office-2011-script)
 
+Scriptet er ikke testet pr. 29. Nov. 2017
+
 Skal du have fjernet Microsoft Office 2011 pakken, så kan du bruge dette script.
 
 For at bruge scriptet, skal du downloade det her fra GitHub siden. Tryk på Clone or download og vælg download ZIP.
